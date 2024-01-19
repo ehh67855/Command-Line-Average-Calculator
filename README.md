@@ -18,9 +18,9 @@ This C++ program calculates the average of numeric values provided as command li
    
 ## Compilation
 **To compile the program, run the following command in the terminal:**
-g++ -o average_calculator lab09.cpp
+- g++ -o average_calculator lab09.cpp
 **After compilation, you can run the program by entering:**
-./average_calculator <num1> <num2> <num3> ...
+- ./average_calculator <num1> <num2> <num3> ...
 
 ## Example
 - ./average_calculator 10 20 30
