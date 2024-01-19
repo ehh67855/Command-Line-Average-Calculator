@@ -13,8 +13,8 @@ This C++ program calculates the average of numeric values provided as command li
 
 ## Installation
 1. **Clone the Repository**
-   git clone https://github.com/ehh67855/Command-Line-Average-Calculator.git
-   cd CommandLineAverageCalculator
+- git clone https://github.com/ehh67855/Command-Line-Average-Calculator.git
+- cd CommandLineAverageCalculator
    
 ## Compilation
 **To compile the program, run the following command in the terminal:**
@@ -23,6 +23,6 @@ g++ -o average_calculator lab09.cpp
 ./average_calculator <num1> <num2> <num3> ...
 
 ## Example
-./average_calculator 10 20 30
-This will output the average of 10, 20, and 30.
+- ./average_calculator 10 20 30
+- This will output the average of 10, 20, and 30.
 
