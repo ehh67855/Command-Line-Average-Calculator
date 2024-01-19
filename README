@@ -1,0 +1,23 @@
+# Lab 09
+
+Evan Hammam (811-009-380)
+
+## Instructions
+
+To compile my code, type:
+
+```
+$ make compile
+```
+
+To run my code (after compiling it), type:
+
+```
+$ ./lab09.out 7 3.0 4
+```
+
+/To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
